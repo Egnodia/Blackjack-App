@@ -59,7 +59,3 @@ function newCard() {
         renderGame()        
     }
 }
-
-window.increment = increment
-window.save = save
-window.reset = reset
